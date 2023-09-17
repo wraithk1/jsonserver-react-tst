@@ -1,0 +1,54 @@
+{
+  "users": [
+    {
+      "email": "blabla@gmail.com",
+      "password": "$2a$10$8NA2ICs8CUDmnTzVqRxovuQTSjj4W/8J47R51UzfW0ghTqg05vqF.",
+      "firstName": "test",
+      "lastName": "1234",
+      "phone": "12346789",
+      "id": 1
+    }
+  ],
+  "contacts": [
+    {
+      "firstName": "admin",
+      "lastName": "1234",
+      "email": "admin@example.com",
+      "phone": "555-555-555-555",
+      "userId": 1,
+      "id": 2
+    },
+    {
+      "id": 3,
+      "userId": 1,
+      "firstName": "asdf-134",
+      "lastName": "asdf__1234",
+      "email": "qwer@QWER.COM",
+      "phone": "66-66-66-33-33-33"
+    },
+    {
+      "firstName": "zxcv",
+      "lastName": "qwer",
+      "email": "q@test.com",
+      "phone": "_______",
+      "userId": 1,
+      "id": 4
+    },
+    {
+      "id": 6,
+      "userId": 1,
+      "firstName": "asdf_asdf",
+      "lastName": "fasdf",
+      "email": "asdf@asdf.cc",
+      "phone": "111-111-111-22"
+    },
+    {
+      "firstName": "qqq",
+      "lastName": "www",
+      "email": "qqww@qqww.ggh",
+      "phone": "555-555-555-666",
+      "userId": 1,
+      "id": 7
+    }
+  ]
+}
